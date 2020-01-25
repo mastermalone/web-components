@@ -1,0 +1,14 @@
+.comment-node {
+  border: solid 1px #e1e1e1;
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.comment-node span {
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.comment-node img {
+  margin-right: 5px;
+}
